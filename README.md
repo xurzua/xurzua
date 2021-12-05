@@ -15,7 +15,6 @@
      
  
   --> I'm a Software Engineer / Cloud Consultant from Santiago, Chile
-  --> Pronouns: He / They
   --> Ask me about:
          - Kubernetes
          - DevOps & Cloud Technologies
