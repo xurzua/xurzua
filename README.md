@@ -22,9 +22,8 @@
          - Networking
          - Linux 
          - ...and other non-tech related stuff
-  --> If you wanna reach me: 
+  --> If you want to reach me: 
          - https://linkedin.com/in/xurzua
-         - https://twitter.com/xurzuaa
          - @xurzua:matrix.org
   --> Fun fact: I'm not Spanish, LOL.
 
